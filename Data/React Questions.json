@@ -1,0 +1,402 @@
+[
+  {
+    "question": "What is the main purpose of React?",
+    "options": [
+      "To style web pages",
+      "To handle HTTP requests",
+      "To build user interfaces",
+      "To manage databases"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is used to create a component in React?",
+    "options": [
+      "ReactDOM.create()",
+      "React.createComponent()",
+      "React.createElement()",
+      "React.makeComponent()"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is JSX?",
+    "options": [
+      "A templating engine",
+      "JavaScript extension that allows HTML in JS",
+      "JSON syntax",
+      "A library in React"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which method is used to render a React element into the DOM?",
+    "options": [
+      "React.render()",
+      "ReactDOM.render()",
+      "React.mount()",
+      "DOM.renderReact()"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "How can you pass data from a parent component to a child component?",
+    "options": [
+      "Using state",
+      "Using props",
+      "Using setState",
+      "Using ref"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What does the useState hook do?",
+    "options": [
+      "Updates the DOM",
+      "Stores a component's props",
+      "Adds local state to a functional component",
+      "Handles HTTP requests"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is a controlled component in React?",
+    "options": [
+      "A component that controls its parent",
+      "A component controlled by Redux",
+      "A component whose form data is handled by the DOM",
+      "A component whose form data is handled by the React component"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the purpose of keys in lists?",
+    "options": [
+      "To identify elements uniquely",
+      "To re-render the DOM",
+      "To handle state",
+      "To bind methods"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which hook is used for side effects in React?",
+    "options": [
+      "useEffect",
+      "useState",
+      "useContext",
+      "useRef"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What is the default behavior of useEffect?",
+    "options": [
+      "It runs once after every render",
+      "It runs only when props change",
+      "It runs before render",
+      "It runs only once after the component mounts"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What does lifting state up mean?",
+    "options": [
+      "Moving state from child to parent",
+      "Moving state to Redux",
+      "Passing props down",
+      "Deleting local state"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which of these is not a valid React lifecycle method in class components?",
+    "options": [
+      "componentDidMount()",
+      "componentWillUnmount()",
+      "shouldComponentUpdate()",
+      "useEffect()"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is the virtual DOM?",
+    "options": [
+      "A duplicate of the actual DOM",
+      "A copy of the browser\u2019s DOM stored in the cloud",
+      "A JavaScript representation of the actual DOM",
+      "A special version of JSX"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which method is used to update state in a class component?",
+    "options": [
+      "this.setProps()",
+      "this.updateState()",
+      "this.setState()",
+      "this.changeState()"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What does useRef() return?",
+    "options": [
+      "A state variable",
+      "A reducer",
+      "A mutable ref object",
+      "A DOM node"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "How do you prevent a component from re-rendering?",
+    "options": [
+      "By using useMemo()",
+      "By setting shouldComponentUpdate() to return false",
+      "By freezing the state",
+      "Both A and B"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following manages routing in a React app?",
+    "options": [
+      "React Router",
+      "Redux",
+      "Axios",
+      "ReactDOM"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What does the React.StrictMode do?",
+    "options": [
+      "Makes code run in production only",
+      "Warns about potential problems",
+      "Adds strict CSS",
+      "Converts all functions to pure functions"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What\u2019s the correct way to update an array in React state?",
+    "options": [
+      "state.push(item)",
+      "setState([...state, item])",
+      "state.append(item)",
+      "setState(state + item)"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the correct syntax to conditionally render JSX?",
+    "options": [
+      "{ if (show) <p>Hello</p> }",
+      "if (show) { return <p>Hello</p> }",
+      "{ show && <p>Hello</p> }",
+      "<p if={show}>Hello</p>"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is React Fragment used for?",
+    "options": [
+      "Styling components",
+      "Returning multiple elements without a parent tag",
+      "Making HTTP requests",
+      "Wrapping stateful logic"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What does useMemo() do?",
+    "options": [
+      "Runs side effects",
+      "Memoizes a value to avoid recalculations",
+      "Returns a reference",
+      "Sets up subscriptions"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the purpose of React.lazy()?",
+    "options": [
+      "Avoids DOM updates",
+      "Creates class components",
+      "Enables code-splitting via dynamic import",
+      "Delays state updates"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which one is true about props in React?",
+    "options": [
+      "Mutable",
+      "Global",
+      "Immutable",
+      "Available only in class components"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "In which phase is componentDidUpdate() called?",
+    "options": [
+      "Mounting",
+      "Unmounting",
+      "Updating",
+      "Initializing"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which React hook helps you share logic between components?",
+    "options": [
+      "useEffect()",
+      "useContext()",
+      "useCallback()",
+      "Custom hooks"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What\u2019s the output of typeof null in JavaScript (used in React apps)?",
+    "options": [
+      "\"null\"",
+      "\"undefined\"",
+      "\"object\"",
+      "\"boolean\""
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which hook is best for storing a DOM reference?",
+    "options": [
+      "useContext",
+      "useState",
+      "useEffect",
+      "useRef"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What is ReactDOM.createRoot() used for in React 18+?",
+    "options": [
+      "Creating root reducer",
+      "Creating a ref",
+      "Concurrent rendering root",
+      "Styling the root element"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Why do we use key props in React lists?",
+    "options": [
+      "Styling",
+      "Index tracking",
+      "Efficient re-rendering",
+      "Global reference"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is true about functional components?",
+    "options": [
+      "They can only use props, not state",
+      "They support lifecycle methods natively",
+      "They can use hooks for state and side effects",
+      "They are slower than class components"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "How do you initialize state in a functional component?",
+    "options": [
+      "this.state = {}",
+      "const [state, setState] = useState()",
+      "useEffect()",
+      "new State()"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What\u2019s the main purpose of useCallback()?",
+    "options": [
+      "Memoize a component",
+      "Return a callback that doesn\u2019t change unless dependencies change",
+      "Replace setTimeout()",
+      "Create side effects"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of these is NOT a valid React hook?",
+    "options": [
+      "useEffect",
+      "useReducer",
+      "useThis",
+      "useContext"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the correct way to prevent default behavior in an event handler?",
+    "options": [
+      "e.stop()",
+      "event.preventDefault()",
+      "prevent(event)",
+      "stop.default()"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "When using useEffect, what does the dependency array [] do?",
+    "options": [
+      "Makes it run only once",
+      "Runs it every time",
+      "Causes an error",
+      "Prevents rendering"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which method is called just before a component is removed from the DOM?",
+    "options": [
+      "componentDidUnmount()",
+      "useUnmount()",
+      "componentWillUnmount()",
+      "unmount()"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the return value of useState()?",
+    "options": [
+      "An object with value and setter",
+      "An array with value and setter",
+      "A function",
+      "Nothing"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which hook is used to access context in functional components?",
+    "options": [
+      "useReducer()",
+      "useContext()",
+      "useMemo()",
+      "useAccess()"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the use of defaultValue in forms?",
+    "options": [
+      "Sets initial form state",
+      "Disables the form",
+      "Prevents changes",
+      "Sets max length"
+    ],
+    "answer": 0
+  }
+]
