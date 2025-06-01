@@ -1,0 +1,204 @@
+[
+  {
+    "question": "What are the three main subatomic particles in an atom?",
+    "options": ["Protons, electrons, ions", "Neutrons, molecules, electrons", "Protons, neutrons, electrons", "Atoms, ions, elements"],
+    "answer": 2
+  },
+  {
+    "question": "Where are protons found in an atom?",
+    "options": ["In the nucleus", "In the electron cloud", "Orbiting the nucleus", "Outside the atom"],
+    "answer": 0
+  },
+  {
+    "question": "What is the charge of an electron?",
+    "options": ["Positive", "Negative", "Neutral", "It has no charge"],
+    "answer": 1
+  },
+  {
+    "question": "Which subatomic particle has no electric charge?",
+    "options": ["Proton", "Electron", "Neutron", "Ion"],
+    "answer": 2
+  },
+  {
+    "question": "The atomic number of an element tells you the number of:",
+    "options": ["Electrons", "Neutrons", "Protons", "Isotopes"],
+    "answer": 2
+  },
+  {
+    "question": "Atoms of the same element always have the same number of:",
+    "options": ["Neutrons", "Protons", "Electrons", "Mass"],
+    "answer": 1
+  },
+  {
+    "question": "What is the center of the atom called?",
+    "options": ["Electron shell", "Core", "Nucleus", "Orbit"],
+    "answer": 2
+  },
+  {
+    "question": "Electrons are located in the:",
+    "options": ["Nucleus", "Outer shell", "Proton cloud", "Center of atom"],
+    "answer": 1
+  },
+  {
+    "question": "Which of these is always electrically neutral?",
+    "options": ["Electron", "Neutron", "Atom", "Proton"],
+    "answer": 2
+  },
+  {
+    "question": "What is the mass number of an atom?",
+    "options": ["The number of protons", "The number of neutrons", "The sum of protons and neutrons", "The number of electrons"],
+    "answer": 2
+  },
+  {
+    "question": "What determines the identity of an element?",
+    "options": ["Mass number", "Number of protons", "Number of neutrons", "Atomic mass"],
+    "answer": 1
+  },
+  {
+    "question": "Which subatomic particle is involved in chemical bonding?",
+    "options": ["Proton", "Neutron", "Electron", "Nucleus"],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is NOT a subatomic particle?",
+    "options": ["Proton", "Electron", "Ion", "Neutron"],
+    "answer": 2
+  },
+  {
+    "question": "Isotopes are atoms with the same number of protons but different numbers of:",
+    "options": ["Electrons", "Neutrons", "Nuclei", "Atoms"],
+    "answer": 1
+  },
+  {
+    "question": "Which particle has the smallest mass?",
+    "options": ["Proton", "Neutron", "Electron", "Nucleus"],
+    "answer": 2
+  },
+  {
+    "question": "What does the periodic table list?",
+    "options": ["Molecules", "Atoms", "Elements", "Compounds"],
+    "answer": 2
+  },
+  {
+    "question": "Atoms are made up mostly of:",
+    "options": ["Solid material", "Water", "Empty space", "Light"],
+    "answer": 2
+  },
+  {
+    "question": "What is the charge of a neutron?",
+    "options": ["Positive", "Negative", "Neutral", "Depends on the atom"],
+    "answer": 2
+  },
+  {
+    "question": "If an atom has 8 protons, it is:",
+    "options": ["Carbon", "Oxygen", "Hydrogen", "Nitrogen"],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is true about atoms?",
+    "options": ["They are visible under a microscope", "They are the basic units of matter", "They have no mass", "They are flat"],
+    "answer": 1
+  },
+  {
+    "question": "Which particle orbits the nucleus?",
+    "options": ["Electron", "Neutron", "Proton", "Ion"],
+    "answer": 0
+  },
+  {
+    "question": "What is an element?",
+    "options": ["A substance made of different atoms", "A compound", "A substance made of one type of atom", "A molecule with mass"],
+    "answer": 2
+  },
+  {
+    "question": "Which scientist developed the first atomic theory?",
+    "options": ["Bohr", "Rutherford", "Dalton", "Einstein"],
+    "answer": 2
+  },
+  {
+    "question": "What is the smallest part of an element that retains its properties?",
+    "options": ["Molecule", "Compound", "Atom", "Electron"],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following are found in the nucleus?",
+    "options": ["Protons and electrons", "Electrons only", "Protons and neutrons", "Neutrons and electrons"],
+    "answer": 2
+  },
+  {
+    "question": "Which element has an atomic number of 1?",
+    "options": ["Helium", "Hydrogen", "Oxygen", "Nitrogen"],
+    "answer": 1
+  },
+  {
+    "question": "How many electrons are in a neutral atom of carbon (atomic number 6)?",
+    "options": ["12", "3", "6", "0"],
+    "answer": 2
+  },
+  {
+    "question": "What is an ion?",
+    "options": ["A neutral atom", "An atom with extra protons", "An atom with a different number of electrons", "A neutron"],
+    "answer": 2
+  },
+  {
+    "question": "If an atom loses an electron, it becomes:",
+    "options": ["Neutral", "Negatively charged", "Positively charged", "A neutron"],
+    "answer": 2
+  },
+  {
+    "question": "What is the atomic number of an atom with 11 protons?",
+    "options": ["11", "1", "22", "12"],
+    "answer": 0
+  },
+  {
+    "question": "What does 'neutral atom' mean?",
+    "options": ["It has no neutrons", "It has equal numbers of protons and electrons", "It has more electrons than protons", "It is stable"],
+    "answer": 1
+  },
+  {
+    "question": "An atom with 15 protons must be an atom of:",
+    "options": ["Oxygen", "Sodium", "Phosphorus", "Chlorine"],
+    "answer": 2
+  },
+  {
+    "question": "Which statement is true?",
+    "options": ["Atoms are created in labs", "All atoms of an element are identical", "Atoms have different charges", "Atoms can be broken into smaller pieces easily"],
+    "answer": 1
+  },
+  {
+    "question": "What happens when electrons gain energy?",
+    "options": ["They become neutrons", "They move closer to the nucleus", "They jump to a higher energy level", "They are destroyed"],
+    "answer": 2
+  },
+  {
+    "question": "Which part of the atom determines how it reacts chemically?",
+    "options": ["Neutrons", "Protons", "Nucleus", "Electrons"],
+    "answer": 3
+  },
+  {
+    "question": "If an atom has 17 electrons and 17 protons, its charge is:",
+    "options": ["+17", "-17", "0", "+1"],
+    "answer": 2
+  },
+  {
+    "question": "What does the mass number NOT include?",
+    "options": ["Protons", "Neutrons", "Electrons", "Atomic mass"],
+    "answer": 2
+  },
+  {
+    "question": "Which of these is a true statement about protons?",
+    "options": ["They have no mass", "They have a negative charge", "They define the element", "They orbit the nucleus"],
+    "answer": 2
+  },
+  {
+    "question": "What do you call atoms with the same atomic number but different mass numbers?",
+    "options": ["Ions", "Compounds", "Isotopes", "Molecules"],
+    "answer": 2
+  },
+  {
+    "question": "What is the term for the outermost electrons involved in chemical bonding?",
+    "options": ["Core electrons", "Ionized electrons", "Valence electrons", "Orbital electrons"],
+    "answer": 2
+  }
+
+]
+

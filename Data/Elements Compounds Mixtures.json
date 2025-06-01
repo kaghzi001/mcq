@@ -1,0 +1,208 @@
+[
+  {
+    "question": "What is an element?",
+    "options": ["A mixture of two substances", "A pure substance made of one type of atom", "A compound of metals", "A molecule with different atoms"],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is an example of an element?",
+    "options": ["Water", "Salt", "Oxygen", "Carbon dioxide"],
+    "answer": 2
+  },
+  {
+    "question": "What is a compound?",
+    "options": ["A mixture of two gases", "A pure substance made of two or more elements chemically combined", "A solution", "An unreactive substance"],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is a compound?",
+    "options": ["Iron", "Hydrogen", "Air", "Carbon dioxide"],
+    "answer": 3
+  },
+  {
+    "question": "What is a mixture?",
+    "options": ["Two elements bonded together", "A substance with a fixed ratio", "Two or more substances not chemically combined", "An unstable atom"],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is a mixture?",
+    "options": ["Table salt", "Sugar", "Air", "Water"],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is NOT an element?",
+    "options": ["Hydrogen", "Oxygen", "Water", "Gold"],
+    "answer": 2
+  },
+  {
+    "question": "Compounds can be broken down into simpler substances by:",
+    "options": ["Physical methods", "Freezing", "Chemical methods", "Boiling"],
+    "answer": 2
+  },
+  {
+    "question": "Which method can be used to separate mixtures?",
+    "options": ["Combustion", "Electrolysis", "Filtration", "Fusion"],
+    "answer": 2
+  },
+  {
+    "question": "What is the smallest unit of an element?",
+    "options": ["Molecule", "Compound", "Mixture", "Atom"],
+    "answer": 3
+  },
+  {
+    "question": "What is the smallest unit of a compound?",
+    "options": ["Ion", "Atom", "Molecule", "Electron"],
+    "answer": 2
+  },
+  {
+    "question": "Water is made of:",
+    "options": ["Hydrogen and oxygen atoms chemically combined", "Only oxygen", "Two hydrogen atoms", "A mix of gases"],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following can be separated by physical means?",
+    "options": ["Water", "Sodium chloride", "Carbon dioxide", "Salt water"],
+    "answer": 3
+  },
+  {
+    "question": "What type of substance is brass?",
+    "options": ["Element", "Compound", "Mixture", "Gas"],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is a homogeneous mixture?",
+    "options": ["Oil and water", "Salad", "Salt water", "Soil"],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is a heterogeneous mixture?",
+    "options": ["Salt water", "Air", "Salad", "Sugar solution"],
+    "answer": 2
+  },
+  {
+    "question": "An alloy is an example of a:",
+    "options": ["Compound", "Pure element", "Homogeneous mixture", "Gas"],
+    "answer": 2
+  },
+  {
+    "question": "Which statement is true about compounds?",
+    "options": ["They are made from one element", "They can be separated physically", "They have different properties from the elements that make them", "They are not pure substances"],
+    "answer": 2
+  },
+  {
+    "question": "Elements in a compound are combined in a:",
+    "options": ["Random ratio", "Variable ratio", "Fixed ratio", "Flexible ratio"],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following best describes a mixture?",
+    "options": ["A fixed ratio of elements", "A new substance is formed", "Can be separated physically", "Made of one atom type"],
+    "answer": 2
+  },
+  {
+    "question": "Carbon dioxide (CO₂) is a:",
+    "options": ["Mixture", "Compound", "Metal", "Element"],
+    "answer": 1
+  },
+  {
+    "question": "Which is a physical change that can separate mixtures?",
+    "options": ["Burning", "Melting", "Filtering", "Reacting"],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is a compound formed by metal and nonmetal?",
+    "options": ["H₂O", "NaCl", "O₂", "CO₂"],
+    "answer": 1
+  },
+  {
+    "question": "How many elements are in water (H₂O)?",
+    "options": ["1", "2", "3", "4"],
+    "answer": 1
+  },
+  {
+    "question": "In a compound, the atoms are held together by:",
+    "options": ["Physical forces", "Magnetism", "Chemical bonds", "Gravity"],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is NOT a mixture?",
+    "options": ["Sand", "Steel", "Oxygen", "Milk"],
+    "answer": 2
+  },
+  {
+    "question": "The chemical formula NaCl represents:",
+    "options": ["Nitrogen and calcium", "Sodium chloride", "Nickel chloride", "Neon compound"],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is true about mixtures?",
+    "options": ["They have fixed compositions", "They are always solid", "They keep the properties of their components", "They cannot be separated"],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following represents an element?",
+    "options": ["H₂O", "CO₂", "O₂", "NaCl"],
+    "answer": 2
+  },
+  {
+    "question": "In which of the following are the substances chemically combined?",
+    "options": ["Mixture", "Solution", "Compound", "Suspension"],
+    "answer": 2
+  },
+  {
+    "question": "A salad is an example of a:",
+    "options": ["Compound", "Homogeneous mixture", "Heterogeneous mixture", "Pure substance"],
+    "answer": 2
+  },
+  {
+    "question": "Which process is best to separate iron filings from sand?",
+    "options": ["Filtration", "Distillation", "Magnetism", "Boiling"],
+    "answer": 2
+  },
+  {
+    "question": "Which term describes a uniform composition throughout a mixture?",
+    "options": ["Heterogeneous", "Suspension", "Solution", "Homogeneous"],
+    "answer": 3
+  },
+  {
+    "question": "The components of a compound:",
+    "options": ["Can be separated by filtering", "Retain their original properties", "Are bonded chemically", "Are visible"],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is NOT a method of separating mixtures?",
+    "options": ["Distillation", "Chromatography", "Evaporation", "Electrolysis"],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following best describes the composition of a compound?",
+    "options": ["Random", "Variable", "Fixed", "Inconsistent"],
+    "answer": 2
+  },
+  {
+    "question": "What is the main difference between mixtures and compounds?",
+    "options": ["Mixtures are pure substances", "Compounds can be separated easily", "Mixtures keep original properties", "Compounds are not made of atoms"],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following represents a compound and not an element or mixture?",
+    "options": ["O₂", "H₂", "NaCl", "Air"],
+    "answer": 2
+  },
+  {
+    "question": "Which mixture is formed when sugar dissolves in water?",
+    "options": ["Suspension", "Solution", "Colloid", "Emulsion"],
+    "answer": 1
+  },
+  {
+    "question": "Which statement is true about elements?",
+    "options": [
+      "They can be broken down into simpler substances by chemical means",
+      "They are made up of molecules from different atoms",
+      "They consist of only one type of atom",
+      "They are always found as gases"
+    ],
+    "answer": 2
+  }
+]
+

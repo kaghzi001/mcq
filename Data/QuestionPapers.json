@@ -5,9 +5,34 @@
     "Name": "First 40 questions by ChatGPT"
   },
   {
-    "filename": "sample.json",
-    "Category": "General Science",
-    "Name": "European Capitals"
+    "filename": "HS Astronomy.json",
+    "Category": "Astronomy",
+    "Name": "40 MCQs: Overall"
+  },
+  {
+    "filename": "Gravity And Orbits.json",
+    "Category": "Astronomy",
+    "Name": "40 MCQs: Gravity And Orbits"
+  },
+  {
+    "filename": "Observing Space.json",
+    "Category": "Astronomy",
+    "Name": "40 MCQs: Observing Space"
+  },
+  {
+    "filename": "Atoms and Elements.json",
+    "Category": "Chemistry",
+    "Name": "40 MCQs: Atoms and Elements"
+  },
+  {
+    "filename": "The Periodic Table.json",
+    "Category": "Chemistry",
+    "Name": "40 MCQs: The Periodic Table"
+  },
+  {
+    "filename": "Elements Compounds Mixtures.json",
+    "Category": "Chemistry",
+    "Name": "40 MCQs: Elements, Compounds, Mixtures"
   }
   
 ]

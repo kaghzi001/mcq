@@ -1,0 +1,203 @@
+[
+  {
+    "question": "What does the periodic table organize elements by?",
+    "options": ["Color", "Atomic number", "Mass number", "Date of discovery"],
+    "answer": 1
+  },
+  {
+    "question": "Each row in the periodic table is called a:",
+    "options": ["Group", "Column", "Period", "Block"],
+    "answer": 2
+  },
+  {
+    "question": "Each column in the periodic table is called a:",
+    "options": ["Period", "Row", "Series", "Group"],
+    "answer": 3
+  },
+  {
+    "question": "Elements in the same group have similar:",
+    "options": ["Atomic masses", "Number of neutrons", "Properties", "States of matter"],
+    "answer": 2
+  },
+  {
+    "question": "Which element is in Group 1 and Period 1?",
+    "options": ["Helium", "Hydrogen", "Lithium", "Oxygen"],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is a noble gas?",
+    "options": ["Nitrogen", "Neon", "Fluorine", "Oxygen"],
+    "answer": 1
+  },
+  {
+    "question": "Metals are located on which side of the periodic table?",
+    "options": ["Left", "Right", "Top", "Bottom"],
+    "answer": 0
+  },
+  {
+    "question": "What are the elements on the staircase line called?",
+    "options": ["Metals", "Nonmetals", "Metalloids", "Noble gases"],
+    "answer": 2
+  },
+  {
+    "question": "What property increases across a period from left to right?",
+    "options": ["Atomic mass", "Metallic character", "Atomic number", "Boiling point"],
+    "answer": 2
+  },
+  {
+    "question": "The most reactive metals are found in:",
+    "options": ["Group 18", "Group 17", "Group 1", "Group 2"],
+    "answer": 2
+  },
+  {
+    "question": "Which group contains the most reactive nonmetals?",
+    "options": ["Group 1", "Group 17", "Group 18", "Group 2"],
+    "answer": 1
+  },
+  {
+    "question": "What is the name of Group 1 elements?",
+    "options": ["Alkaline Earth Metals", "Halogens", "Transition Metals", "Alkali Metals"],
+    "answer": 3
+  },
+  {
+    "question": "What is the name of Group 2 elements?",
+    "options": ["Noble gases", "Halogens", "Alkaline Earth Metals", "Lanthanides"],
+    "answer": 2
+  },
+  {
+    "question": "Group 18 elements are known as:",
+    "options": ["Halogens", "Noble gases", "Transition metals", "Nonmetals"],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following elements is a nonmetal?",
+    "options": ["Calcium", "Iron", "Oxygen", "Copper"],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is a transition metal?",
+    "options": ["Sodium", "Iron", "Oxygen", "Chlorine"],
+    "answer": 1
+  },
+  {
+    "question": "Which element is in Group 17 and is a gas at room temperature?",
+    "options": ["Iodine", "Chlorine", "Bromine", "Fluorine"],
+    "answer": 1
+  },
+  {
+    "question": "The modern periodic table is arranged in order of increasing:",
+    "options": ["Atomic mass", "Atomic number", "Density", "Reactivity"],
+    "answer": 1
+  },
+  {
+    "question": "Which element is found in Period 3, Group 2?",
+    "options": ["Magnesium", "Sodium", "Calcium", "Aluminum"],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following elements is a halogen?",
+    "options": ["Neon", "Sodium", "Iodine", "Calcium"],
+    "answer": 2
+  },
+  {
+    "question": "What do all elements in Group 1 have in common?",
+    "options": ["They are gases", "They have one valence electron", "They are nonmetals", "They are unreactive"],
+    "answer": 1
+  },
+  {
+    "question": "Elements in the same period have the same number of:",
+    "options": ["Protons", "Electron shells", "Neutrons", "Valence electrons"],
+    "answer": 1
+  },
+  {
+    "question": "What type of elements are found in the middle block of the periodic table?",
+    "options": ["Noble gases", "Transition metals", "Halogens", "Alkali metals"],
+    "answer": 1
+  },
+  {
+    "question": "Which element is a gas and nonmetal?",
+    "options": ["Hydrogen", "Sodium", "Magnesium", "Iron"],
+    "answer": 0
+  },
+  {
+    "question": "Which of the following is a characteristic of metals?",
+    "options": ["Brittle", "Dull", "Poor conductor", "Malleable"],
+    "answer": 3
+  },
+  {
+    "question": "Which property decreases as you move down a group?",
+    "options": ["Atomic number", "Reactivity of metals", "Ionization energy", "Atomic mass"],
+    "answer": 2
+  },
+  {
+    "question": "What element is in Group 16 and Period 2?",
+    "options": ["Oxygen", "Sulfur", "Fluorine", "Nitrogen"],
+    "answer": 0
+  },
+  {
+    "question": "What is the symbol for potassium?",
+    "options": ["P", "Pt", "K", "Po"],
+    "answer": 2
+  },
+  {
+    "question": "What is the symbol for calcium?",
+    "options": ["Ca", "C", "Cl", "Cu"],
+    "answer": 0
+  },
+  {
+    "question": "What group is fluorine in?",
+    "options": ["Group 1", "Group 16", "Group 17", "Group 18"],
+    "answer": 2
+  },
+  {
+    "question": "How many periods are there in the periodic table?",
+    "options": ["5", "6", "7", "8"],
+    "answer": 2
+  },
+  {
+    "question": "How many groups are there in the periodic table?",
+    "options": ["10", "18", "12", "7"],
+    "answer": 1
+  },
+  {
+    "question": "What is the term for elements that can conduct heat and electricity but are brittle?",
+    "options": ["Metalloids", "Metals", "Nonmetals", "Alloys"],
+    "answer": 0
+  },
+  {
+    "question": "Which element is a metalloid?",
+    "options": ["Carbon", "Silicon", "Oxygen", "Iron"],
+    "answer": 1
+  },
+  {
+    "question": "The number of valence electrons determines an element’s:",
+    "options": ["Mass", "Chemical reactivity", "Density", "Color"],
+    "answer": 1
+  },
+  {
+    "question": "Which group contains elements that are mostly unreactive?",
+    "options": ["Group 1", "Group 2", "Group 17", "Group 18"],
+    "answer": 3
+  },
+  {
+    "question": "Which element is in the same group as sodium?",
+    "options": ["Calcium", "Potassium", "Aluminum", "Magnesium"],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is a property of nonmetals?",
+    "options": ["Shiny", "Good conductor", "Brittle", "Malleable"],
+    "answer": 2
+  },
+  {
+    "question": "The reactivity of Group 1 elements _______ as you go down the group.",
+    "options": ["Increases", "Decreases", "Stays the same", "Varies randomly"],
+    "answer": 0
+  },
+  {
+    "question": "Which element is placed in Group 1 but is a nonmetal?",
+    "options": ["Lithium", "Hydrogen", "Sodium", "Potassium"],
+    "answer": 1
+  }
+]
+

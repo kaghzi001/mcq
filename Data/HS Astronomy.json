@@ -1,0 +1,208 @@
+[
+  {
+    "question": "What is the hottest planet in our solar system?",
+    "options": ["Mercury", "Venus", "Mars", "Jupiter"],
+    "answer": 1
+  },
+  {
+    "question": "What causes day and night on Earth?",
+    "options": ["Earth's orbit around the Sun", "The tilt of Earth's axis", "Earth's rotation on its axis", "The phases of the Moon"],
+    "answer": 2
+  },
+  {
+    "question": "Which planet is known as the 'Red Planet'?",
+    "options": ["Mars", "Jupiter", "Saturn", "Neptune"],
+    "answer": 0
+  },
+  {
+    "question": "Which layer of the Sun is visible during a solar eclipse?",
+    "options": ["Core", "Photosphere", "Chromosphere", "Corona"],
+    "answer": 3
+  },
+  {
+    "question": "Which galaxy is Earth located in?",
+    "options": ["Andromeda Galaxy", "Milky Way Galaxy", "Whirlpool Galaxy", "Sombrero Galaxy"],
+    "answer": 1
+  },
+  {
+    "question": "What is a light-year a measure of?",
+    "options": ["Time", "Speed", "Distance", "Temperature"],
+    "answer": 2
+  },
+  {
+    "question": "Which type of celestial object is the Sun?",
+    "options": ["Planet", "Star", "Moon", "Asteroid"],
+    "answer": 1
+  },
+  {
+    "question": "What causes the Moon’s phases?",
+    "options": ["Earth's shadow", "The Moon's rotation", "Its position relative to Earth and the Sun", "The Moon’s distance from Earth"],
+    "answer": 2
+  },
+  {
+    "question": "What are Saturn’s rings primarily made of?",
+    "options": ["Fire and smoke", "Rock and metal", "Ice and rock particles", "Gas clouds"],
+    "answer": 2
+  },
+  {
+    "question": "Which planet has the most moons?",
+    "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+    "answer": 3
+  },
+  {
+    "question": "What is a black hole?",
+    "options": ["A dark star", "A collapsed star with immense gravity", "A hole in space", "A planet with no light"],
+    "answer": 1
+  },
+  {
+    "question": "Which planet is tilted on its side, almost rolling around the Sun?",
+    "options": ["Uranus", "Neptune", "Saturn", "Mercury"],
+    "answer": 0
+  },
+  {
+    "question": "What do we call a small rocky body that orbits the Sun, mostly between Mars and Jupiter?",
+    "options": ["Comet", "Asteroid", "Meteor", "Dwarf Planet"],
+    "answer": 1
+  },
+  {
+    "question": "What is the name of the closest star system to Earth (after the Sun)?",
+    "options": ["Proxima Centauri", "Alpha Centauri", "Betelgeuse", "Sirius"],
+    "answer": 0
+  },
+  {
+    "question": "Which part of the electromagnetic spectrum do astronomers use to study the universe?",
+    "options": ["Visible light only", "Radio waves only", "All wavelengths", "Gamma rays only"],
+    "answer": 2
+  },
+  {
+    "question": "What is the approximate age of the universe?",
+    "options": ["1.5 billion years", "4.5 billion years", "13.8 billion years", "100 billion years"],
+    "answer": 2
+  },
+  {
+    "question": "What is the Big Bang Theory?",
+    "options": ["A theory about black holes", "A description of galaxy formation", "A theory about the origin of the universe", "A method of time travel"],
+    "answer": 2
+  },
+  {
+    "question": "What happens during a lunar eclipse?",
+    "options": ["The Moon blocks the Sun", "Earth blocks sunlight from reaching the Moon", "The Sun blocks the Moon", "The Moon disappears behind a planet"],
+    "answer": 1
+  },
+  {
+    "question": "What tool do astronomers use to observe distant objects in space?",
+    "options": ["Microscope", "Telescope", "Radar", "Stethoscope"],
+    "answer": 1
+  },
+  {
+    "question": "What is the term for a star explosion?",
+    "options": ["Black hole", "Nova", "Supernova", "Quasar"],
+    "answer": 2
+  },
+  {
+    "question": "Which planet is the largest in our solar system?",
+    "options": ["Earth", "Neptune", "Jupiter", "Saturn"],
+    "answer": 2
+  },
+  {
+    "question": "What type of galaxy is the Milky Way?",
+    "options": ["Elliptical", "Irregular", "Spiral", "Lenticular"],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is not a dwarf planet?",
+    "options": ["Pluto", "Ceres", "Europa", "Haumea"],
+    "answer": 2
+  },
+  {
+    "question": "How long does it take for the Moon to orbit the Earth?",
+    "options": ["24 hours", "7 days", "27.3 days", "365 days"],
+    "answer": 2
+  },
+  {
+    "question": "What kind of telescope uses mirrors to gather light?",
+    "options": ["Refracting", "Reflecting", "Radio", "Gamma"],
+    "answer": 1
+  },
+  {
+    "question": "Which mission first landed humans on the Moon?",
+    "options": ["Apollo 11", "Voyager 1", "Skylab", "Mercury"],
+    "answer": 0
+  },
+  {
+    "question": "What is the Kuiper Belt?",
+    "options": ["A region of planets", "An asteroid field", "A ring of icy objects beyond Neptune", "A gas cloud near Saturn"],
+    "answer": 2
+  },
+  {
+    "question": "Which planet is known for its Great Red Spot?",
+    "options": ["Mars", "Jupiter", "Saturn", "Venus"],
+    "answer": 1
+  },
+  {
+    "question": "What protects Earth from solar wind and radiation?",
+    "options": ["Ozone layer", "Atmosphere", "Magnetosphere", "Clouds"],
+    "answer": 2
+  },
+  {
+    "question": "Which moon is the largest in the solar system?",
+    "options": ["Titan", "Ganymede", "Callisto", "Europa"],
+    "answer": 1
+  },
+  {
+    "question": "Which of these is not a type of galaxy?",
+    "options": ["Spiral", "Irregular", "Rectangular", "Elliptical"],
+    "answer": 2
+  },
+  {
+    "question": "What is a comet mostly made of?",
+    "options": ["Gas and dust", "Rock and metal", "Ice and dust", "Lava and ash"],
+    "answer": 2
+  },
+  {
+    "question": "Where is the asteroid belt located?",
+    "options": ["Between Earth and Mars", "Beyond Pluto", "Between Mars and Jupiter", "Between Saturn and Uranus"],
+    "answer": 2
+  },
+  {
+    "question": "Which element is the most abundant in stars?",
+    "options": ["Oxygen", "Carbon", "Hydrogen", "Helium"],
+    "answer": 2
+  },
+  {
+    "question": "How are distances to nearby stars measured?",
+    "options": ["Radar", "Parallax", "Sonar", "Redshift"],
+    "answer": 1
+  },
+  {
+    "question": "What is the term for leftover heat from the Big Bang?",
+    "options": ["Dark energy", "Stellar wind", "Cosmic microwave background", "Solar radiation"],
+    "answer": 2
+  },
+  {
+    "question": "Which planet has a thick atmosphere of carbon dioxide and sulfuric acid clouds?",
+    "options": ["Mars", "Jupiter", "Venus", "Neptune"],
+    "answer": 2
+  },
+  {
+    "question": "What kind of celestial object is a pulsar?",
+    "options": ["A white dwarf", "A fast-spinning neutron star", "A comet", "A galaxy"],
+    "answer": 1
+  },
+  {
+    "question": "What is the term for a piece of a meteor that reaches Earth’s surface?",
+    "options": ["Asteroid", "Meteorite", "Comet", "Satellite"],
+    "answer": 1
+  },
+  {
+    "question": "Which of these planets does not have a solid surface?",
+    "options": ["Mercury", "Venus", "Neptune", "Mars"],
+    "answer": 2
+  },
+  {
+    "question": "What causes tides on Earth?",
+    "options": ["Sun's radiation", "Moon's gravity", "Earth’s tilt", "Ocean currents"],
+    "answer": 1
+  }
+]
+

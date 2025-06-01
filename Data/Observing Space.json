@@ -1,0 +1,204 @@
+[
+  {
+    "question": "What is the main purpose of a telescope?",
+    "options": ["To detect heat", "To observe distant objects in space", "To create electricity", "To measure gravity"],
+    "answer": 1
+  },
+  {
+    "question": "Who is considered the first person to use a telescope for astronomy?",
+    "options": ["Galileo Galilei", "Isaac Newton", "Edwin Hubble", "Albert Einstein"],
+    "answer": 0
+  },
+  {
+    "question": "Which type of telescope uses lenses to gather light?",
+    "options": ["Reflecting telescope", "Refracting telescope", "Radio telescope", "Infrared telescope"],
+    "answer": 1
+  },
+  {
+    "question": "What is the name of the space telescope launched in 1990 that orbits Earth?",
+    "options": ["Kepler", "Chandra", "Hubble", "James Webb"],
+    "answer": 2
+  },
+  {
+    "question": "Which telescope detects radio waves from space?",
+    "options": ["Infrared telescope", "Optical telescope", "Radio telescope", "Ultraviolet telescope"],
+    "answer": 2
+  },
+  {
+    "question": "Why are many telescopes placed on mountains?",
+    "options": ["For better air pressure", "For lower temperatures", "To avoid city lights and get clearer skies", "For closer access to stars"],
+    "answer": 2
+  },
+  {
+    "question": "Why are space telescopes better than Earth-based ones?",
+    "options": ["They are larger", "They are cheaper", "They avoid Earth's atmosphere", "They use electricity from the Sun"],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is NOT an electromagnetic wave used in space observation?",
+    "options": ["Radio", "Microwave", "Sound", "X-ray"],
+    "answer": 2
+  },
+  {
+    "question": "Which observatory telescope is designed to detect infrared radiation?",
+    "options": ["Kepler", "Hubble", "Spitzer", "Arecibo"],
+    "answer": 2
+  },
+  {
+    "question": "What is an astronomical unit (AU)?",
+    "options": ["Distance between Earth and Moon", "Distance light travels in one year", "Average distance from Earth to the Sun", "Diameter of the Sun"],
+    "answer": 2
+  },
+  {
+    "question": "Which telescope is known for capturing the deepest views of the universe?",
+    "options": ["Spitzer", "Hubble", "Chandra", "SOHO"],
+    "answer": 1
+  },
+  {
+    "question": "What does the James Webb Space Telescope mainly observe?",
+    "options": ["Ultraviolet light", "Infrared light", "Visible light", "Gamma rays"],
+    "answer": 1
+  },
+  {
+    "question": "What does a spectroscope do?",
+    "options": ["Magnifies images", "Measures sound in space", "Breaks light into a spectrum to study composition", "Detects gravity waves"],
+    "answer": 2
+  },
+  {
+    "question": "Why can't we hear sounds in space?",
+    "options": ["Space is too loud", "Space absorbs sound", "There is no medium like air to carry sound", "Sound travels too fast in space"],
+    "answer": 2
+  },
+  {
+    "question": "What kind of telescope is most effective for cloudy nights?",
+    "options": ["Optical telescope", "Refractor telescope", "Infrared telescope", "Radio telescope"],
+    "answer": 3
+  },
+  {
+    "question": "Which country launched the first artificial satellite?",
+    "options": ["USA", "China", "Germany", "Soviet Union"],
+    "answer": 3
+  },
+  {
+    "question": "What was the name of the first artificial satellite?",
+    "options": ["Voyager", "Sputnik 1", "Apollo 11", "Galileo"],
+    "answer": 1
+  },
+  {
+    "question": "What is a planetarium used for?",
+    "options": ["Launching rockets", "Testing telescopes", "Simulating the night sky indoors", "Training astronauts"],
+    "answer": 2
+  },
+  {
+    "question": "What type of radiation does the Chandra X-ray Observatory detect?",
+    "options": ["Infrared", "Visible light", "Microwave", "X-rays"],
+    "answer": 3
+  },
+  {
+    "question": "What is the purpose of a space probe?",
+    "options": ["To orbit Earth", "To make weather predictions", "To explore and collect data from space", "To serve as a satellite for TV"],
+    "answer": 2
+  },
+  {
+    "question": "Which spacecraft was the first to reach interstellar space?",
+    "options": ["Voyager 1", "Pioneer 10", "New Horizons", "Cassini"],
+    "answer": 0
+  },
+  {
+    "question": "What does a light-year measure?",
+    "options": ["Time it takes light to travel", "Speed of light", "Distance light travels in one year", "Brightness of a star"],
+    "answer": 2
+  },
+  {
+    "question": "Which is the largest ground-based telescope in the world?",
+    "options": ["Gran Telescopio Canarias", "Hubble", "Keck I", "James Webb"],
+    "answer": 0
+  },
+  {
+    "question": "What is the name of NASA’s space telescope designed to find exoplanets?",
+    "options": ["Hubble", "Kepler", "Spitzer", "Chandra"],
+    "answer": 1
+  },
+  {
+    "question": "Which of these telescopes orbits Earth?",
+    "options": ["Very Large Telescope", "Hubble", "Arecibo", "ALMA"],
+    "answer": 1
+  },
+  {
+    "question": "Why do astronomers use filters in telescopes?",
+    "options": ["To make colors prettier", "To protect their eyes", "To observe specific wavelengths of light", "To increase zoom"],
+    "answer": 2
+  },
+  {
+    "question": "Which part of the electromagnetic spectrum do humans see?",
+    "options": ["Radio", "Infrared", "X-ray", "Visible light"],
+    "answer": 3
+  },
+  {
+    "question": "Which observatory studies the Sun?",
+    "options": ["Spitzer", "Hubble", "SOHO", "Kepler"],
+    "answer": 2
+  },
+  {
+    "question": "What are radio telescopes often arranged in?",
+    "options": ["Pairs", "Arrays", "Chains", "Stacks"],
+    "answer": 1
+  },
+  {
+    "question": "Which space mission provided a detailed map of the cosmic microwave background?",
+    "options": ["Hubble", "COBE", "James Webb", "Voyager"],
+    "answer": 1
+  },
+  {
+    "question": "How do astronomers determine the distance to nearby stars?",
+    "options": ["By brightness", "By color", "By parallax", "By temperature"],
+    "answer": 2
+  },
+  {
+    "question": "What is the primary purpose of the Keck Observatory?",
+    "options": ["To launch satellites", "To monitor Earth's weather", "To study deep space", "To observe wildlife"],
+    "answer": 2
+  },
+  {
+    "question": "Why do space telescopes need to be above Earth’s atmosphere?",
+    "options": ["To travel faster", "To avoid storms", "To detect radiation blocked by the atmosphere", "To collect solar power"],
+    "answer": 2
+  },
+  {
+    "question": "Which telescope succeeded Hubble as NASA’s flagship observatory?",
+    "options": ["Spitzer", "Chandra", "James Webb", "Voyager"],
+    "answer": 2
+  },
+  {
+    "question": "Which instrument helps measure the brightness of stars?",
+    "options": ["Barometer", "Photometer", "Calorimeter", "Thermometer"],
+    "answer": 1
+  },
+  {
+    "question": "Which mission explored Pluto in 2015?",
+    "options": ["Voyager 1", "New Horizons", "Pioneer 11", "Cassini"],
+    "answer": 1
+  },
+  {
+    "question": "Which of these space observatories studies gamma rays?",
+    "options": ["Fermi", "Spitzer", "Hubble", "Kepler"],
+    "answer": 0
+  },
+  {
+    "question": "What is the largest benefit of multi-wavelength astronomy?",
+    "options": ["Better pictures", "Cheaper telescopes", "More complete understanding of objects", "More colorful images"],
+    "answer": 2
+  },
+  {
+    "question": "What is triangulation (parallax) used for in astronomy?",
+    "options": ["To find speed of stars", "To measure brightness", "To locate black holes", "To calculate distance to nearby stars"],
+    "answer": 3
+  },
+  {
+    "question": "What is adaptive optics used for in ground-based telescopes?",
+    "options": ["To zoom in on distant stars", "To adjust to temperature changes", "To correct for atmospheric distortion", "To track satellites"],
+    "answer": 2
+  }
+
+]
+

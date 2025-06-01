@@ -1,0 +1,204 @@
+[
+  {
+    "question": "What force keeps planets in orbit around the Sun?",
+    "options": ["Magnetism", "Inertia", "Gravity", "Friction"],
+    "answer": 2
+  },
+  {
+    "question": "Which scientist formulated the law of universal gravitation?",
+    "options": ["Albert Einstein", "Isaac Newton", "Galileo Galilei", "Nikola Tesla"],
+    "answer": 1
+  },
+  {
+    "question": "What happens to gravitational force as distance between two objects increases?",
+    "options": ["It increases", "It stays the same", "It decreases", "It disappears"],
+    "answer": 2
+  },
+  {
+    "question": "Which object has the strongest gravitational pull in our solar system?",
+    "options": ["Earth", "Jupiter", "The Moon", "The Sun"],
+    "answer": 3
+  },
+  {
+    "question": "Why do astronauts float inside the International Space Station?",
+    "options": ["There is no gravity in space", "They are in free fall", "Space repels gravity", "The station creates anti-gravity"],
+    "answer": 1
+  },
+  {
+    "question": "The orbit of a planet around the Sun is what shape?",
+    "options": ["Circular", "Elliptical", "Triangular", "Rectangular"],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following affects the gravitational force between two objects?",
+    "options": ["Their volume", "Their color", "Their mass and distance", "Their temperature"],
+    "answer": 2
+  },
+  {
+    "question": "What would happen if Earth's gravity suddenly disappeared?",
+    "options": ["People would sink into the Earth", "People would float into space", "Nothing would change", "Earth would stop rotating"],
+    "answer": 1
+  },
+  {
+    "question": "What keeps the Moon in orbit around Earth?",
+    "options": ["Earth's magnetic field", "Earth’s gravity", "The Sun’s gravity", "The Moon's own energy"],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is true about gravity in space?",
+    "options": ["There is no gravity", "Gravity only works on planets", "Gravity exists but is weaker with distance", "Gravity pushes objects away"],
+    "answer": 2
+  },
+  {
+    "question": "What term describes the speed needed to break free from a planet’s gravitational pull?",
+    "options": ["Escape velocity", "Terminal velocity", "Orbital speed", "Breakaway speed"],
+    "answer": 0
+  },
+  {
+    "question": "Why does the Moon not crash into Earth?",
+    "options": ["It’s moving too fast", "Gravity doesn't affect it", "It’s held by Earth's atmosphere", "Its speed balances gravitational pull"],
+    "answer": 3
+  },
+  {
+    "question": "If the mass of an object increases, its gravitational force will:",
+    "options": ["Decrease", "Stay the same", "Increase", "Become zero"],
+    "answer": 2
+  },
+  {
+    "question": "What is a geostationary orbit?",
+    "options": ["An orbit far beyond the Moon", "An orbit that crosses Earth's poles", "An orbit that keeps a satellite above the same spot on Earth", "A random orbital path"],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following bodies would exert the most gravity?",
+    "options": ["A small asteroid", "A comet", "A dwarf planet", "A giant gas planet"],
+    "answer": 3
+  },
+  {
+    "question": "How does the gravitational force between two objects change if the distance is doubled?",
+    "options": ["It doubles", "It is cut in half", "It becomes four times stronger", "It becomes four times weaker"],
+    "answer": 3
+  },
+  {
+    "question": "Which planet has the strongest gravity in our solar system?",
+    "options": ["Earth", "Jupiter", "Mars", "Saturn"],
+    "answer": 1
+  },
+  {
+    "question": "Why do satellites stay in orbit around Earth?",
+    "options": ["They are weightless", "They have engines running constantly", "Their speed balances Earth's gravity", "They are magnetic"],
+    "answer": 2
+  },
+  {
+    "question": "What keeps a space station from falling to Earth?",
+    "options": ["Anti-gravity", "Earth’s magnetic field", "Its speed and gravity balance", "Air pressure"],
+    "answer": 2
+  },
+  {
+    "question": "What would happen to Earth's orbit if the Sun's gravity suddenly increased?",
+    "options": ["Earth would move farther away", "Earth would crash into the Sun", "Earth's orbit would remain the same", "Earth would stop rotating"],
+    "answer": 1
+  },
+  {
+    "question": "Who proposed that gravity is a warping of space-time?",
+    "options": ["Isaac Newton", "Galileo Galilei", "Albert Einstein", "Stephen Hawking"],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following best describes weight?",
+    "options": ["The amount of matter in an object", "The force of gravity on an object", "The size of an object", "The speed of an object"],
+    "answer": 1
+  },
+  {
+    "question": "What would happen to the Moon if Earth’s gravity disappeared?",
+    "options": ["It would move in a straight line", "It would crash into the Sun", "It would orbit the Sun", "It would stay in place"],
+    "answer": 0
+  },
+  {
+    "question": "Why do objects fall to the ground when dropped?",
+    "options": ["Air pushes them down", "Earth’s gravity pulls them", "They are magnetically attracted to Earth", "Earth spins"],
+    "answer": 1
+  },
+  {
+    "question": "What is the unit of gravitational force?",
+    "options": ["Watt", "Newton", "Joule", "Pascal"],
+    "answer": 1
+  },
+  {
+    "question": "How does mass differ from weight?",
+    "options": ["Weight is constant; mass changes", "Mass depends on gravity; weight doesn’t", "Mass is the amount of matter; weight is gravity's pull on it", "There is no difference"],
+    "answer": 2
+  },
+  {
+    "question": "Which planet has the weakest surface gravity?",
+    "options": ["Earth", "Mars", "Mercury", "Pluto"],
+    "answer": 3
+  },
+  {
+    "question": "Why is gravity weaker on the Moon than on Earth?",
+    "options": ["The Moon is closer to the Sun", "The Moon has less mass", "The Moon rotates faster", "The Moon has no atmosphere"],
+    "answer": 1
+  },
+  {
+    "question": "Why do satellites travel at high speeds in orbit?",
+    "options": ["To overcome air resistance", "To escape the solar system", "To balance gravitational pull", "To avoid the Moon"],
+    "answer": 2
+  },
+  {
+    "question": "What shape is most common for orbits in our solar system?",
+    "options": ["Perfect circles", "Ellipses", "Squares", "Spirals"],
+    "answer": 1
+  },
+  {
+    "question": "What happens to an orbiting satellite if its speed decreases too much?",
+    "options": ["It speeds up again", "It moves farther from Earth", "It falls back to Earth", "It becomes geostationary"],
+    "answer": 2
+  },
+  {
+    "question": "Which statement about gravitational force is true?",
+    "options": ["It only acts on large objects", "It can act at a distance", "It only acts on Earth", "It pushes objects away"],
+    "answer": 1
+  },
+  {
+    "question": "Why is gravitational force called a 'universal' force?",
+    "options": ["It acts only on Earth", "It applies only to living things", "It affects all matter in the universe", "It is a man-made force"],
+    "answer": 2
+  },
+  {
+    "question": "What causes a planet to continue moving in its orbit?",
+    "options": ["The Sun's magnetic field", "The planet’s inertia and gravity", "Solar winds", "The planet's moons"],
+    "answer": 1
+  },
+  {
+    "question": "How do space missions use gravity assists?",
+    "options": ["To slow down the spacecraft", "To avoid obstacles", "To change direction and gain speed", "To land on other planets"],
+    "answer": 2
+  },
+  {
+    "question": "Why do comets have long elliptical orbits?",
+    "options": ["They are light and fast", "They are far from the Sun", "They are not affected by gravity", "Their speed and distance create stretched paths"],
+    "answer": 3
+  },
+  {
+    "question": "What happens to Earth's gravity as you move further from its center?",
+    "options": ["It increases", "It remains constant", "It decreases", "It disappears entirely"],
+    "answer": 2
+  },
+  {
+    "question": "Which statement is true about all objects with mass?",
+    "options": ["They have no gravity", "They repel other objects", "They exert gravitational force", "They orbit stars"],
+    "answer": 2
+  },
+  {
+    "question": "What determines how much gravity an object has?",
+    "options": ["Its temperature", "Its speed", "Its mass", "Its brightness"],
+    "answer": 2
+  },
+  {
+    "question": "Why does the Sun have the most gravitational pull in the solar system?",
+    "options": ["It’s the brightest", "It’s the hottest", "It’s the most massive", "It’s the closest to Earth"],
+    "answer": 2
+  }
+]
+
+
