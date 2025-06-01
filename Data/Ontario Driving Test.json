@@ -1,0 +1,203 @@
+[
+  {
+    "question": "When approaching a stop sign, what must you do?",
+    "options": ["Slow down and proceed", "Stop only if other vehicles are present", "Come to a complete stop", "Honk and proceed"],
+    "answer": 2
+  },
+  {
+    "question": "What does a flashing red traffic light mean?",
+    "options": ["Proceed with caution", "Stop and then proceed when safe", "Speed up", "Pedestrians crossing"],
+    "answer": 1
+  },
+  {
+    "question": "What is the legal blood alcohol concentration (BAC) limit for fully licensed drivers in Ontario?",
+    "options": ["0.05%", "0.08%", "0.00%", "0.10%"],
+    "answer": 1
+  },
+  {
+    "question": "When can you legally make a right turn on a red light in Ontario?",
+    "options": ["After coming to a complete stop and when it is safe", "Immediately", "Only during daylight hours", "Never"],
+    "answer": 0
+  },
+  {
+    "question": "What must you do when a school bus is stopped with its red lights flashing?",
+    "options": ["Pass quickly", "Stop only if you are behind the bus", "Stop regardless of your direction of travel", "Slow down and proceed"],
+    "answer": 2
+  },
+  {
+    "question": "When should you use your headlights?",
+    "options": ["Only at night", "When visibility is reduced to 150 metres or less", "Only on highways", "Only during rain"],
+    "answer": 1
+  },
+  {
+    "question": "Who has the right-of-way at a four-way stop?",
+    "options": ["The largest vehicle", "The vehicle on the left", "The first vehicle to stop", "The fastest vehicle"],
+    "answer": 2
+  },
+  {
+    "question": "What does a solid white line on the road mean?",
+    "options": ["Passing is allowed", "Hazard ahead", "Lane changing is discouraged", "Do not pass or change lanes"],
+    "answer": 3
+  },
+  {
+    "question": "What should you do if your vehicle begins to skid?",
+    "options": ["Brake hard", "Accelerate", "Steer in the direction you want to go", "Turn in the opposite direction"],
+    "answer": 2
+  },
+  {
+    "question": "What does a green circle traffic sign indicate?",
+    "options": ["A warning", "A regulatory action permitted", "A prohibition", "A stop sign is ahead"],
+    "answer": 1
+  },
+  {
+    "question": "What is the minimum following distance under ideal conditions?",
+    "options": ["1 second", "2 seconds", "3 seconds", "5 seconds"],
+    "answer": 2
+  },
+  {
+    "question": "When driving in fog, you should use:",
+    "options": ["High beam headlights", "Parking lights", "Low beam headlights", "Hazard lights"],
+    "answer": 2
+  },
+  {
+    "question": "How far must you park from a fire hydrant?",
+    "options": ["3 metres", "5 metres", "10 metres", "15 metres"],
+    "answer": 0
+  },
+  {
+    "question": "If a tire blows out, the driver should:",
+    "options": ["Brake hard", "Hold the steering wheel firmly and slow down gradually", "Accelerate quickly", "Turn off the engine"],
+    "answer": 1
+  },
+  {
+    "question": "What does a yield sign mean?",
+    "options": ["Stop", "Go faster", "Slow down and give right-of-way", "Merge immediately"],
+    "answer": 2
+  },
+  {
+    "question": "What should you do before changing lanes?",
+    "options": ["Signal, check mirrors and blind spot", "Honk and move", "Check mirrors only", "Speed up quickly"],
+    "answer": 0
+  },
+  {
+    "question": "When are you required to turn on your headlights?",
+    "options": ["From 30 minutes after sunset to 30 minutes before sunrise", "Only during rain", "Only at night", "Only in rural areas"],
+    "answer": 0
+  },
+  {
+    "question": "What does a broken yellow line mean?",
+    "options": ["No passing", "Two-way traffic, passing allowed", "One-way street", "Pedestrian zone"],
+    "answer": 1
+  },
+  {
+    "question": "How should you position your car when backing in a straight line?",
+    "options": ["Look over your left shoulder", "Look out the front window", "Look over your right shoulder", "Use only mirrors"],
+    "answer": 2
+  },
+  {
+    "question": "When must you stop for a pedestrian at a crosswalk?",
+    "options": ["Only if traffic light is red", "Only if there are no other cars", "Always, when pedestrian is crossing", "Never"],
+    "answer": 2
+  },
+  {
+    "question": "If two vehicles arrive at a 4-way stop at the same time, who has the right-of-way?",
+    "options": ["The vehicle on the left", "The larger vehicle", "The vehicle on the right", "The slower vehicle"],
+    "answer": 2
+  },
+  {
+    "question": "What does a red X over a lane mean?",
+    "options": ["Lane is closed", "Proceed with caution", "Yield", "School zone ahead"],
+    "answer": 0
+  },
+  {
+    "question": "Where should your eyes be while turning?",
+    "options": ["On the road in front of you", "On the vehicle beside you", "On the rear-view mirror", "Looking into the turn"],
+    "answer": 3
+  },
+  {
+    "question": "What is the purpose of the shoulder check?",
+    "options": ["To check the speedometer", "To check for vehicles in blind spots", "To see traffic lights", "To check your phone"],
+    "answer": 1
+  },
+  {
+    "question": "What does a solid yellow line next to a broken yellow line mean?",
+    "options": ["Passing is allowed in both directions", "Passing is only allowed for traffic next to the broken line", "Passing is allowed for everyone", "No one can pass"],
+    "answer": 1
+  },
+  {
+    "question": "What must you do at a railway crossing when a train is approaching?",
+    "options": ["Speed up", "Stop at least 5 metres away", "Honk and cross", "Ignore and proceed"],
+    "answer": 1
+  },
+  {
+    "question": "You may not park within how many metres of a pedestrian crossover?",
+    "options": ["5 metres", "9 metres", "15 metres", "20 metres"],
+    "answer": 1
+  },
+  {
+    "question": "If you're caught driving with a suspended license, you could face:",
+    "options": ["A warning", "A fine and vehicle impoundment", "License renewal", "Traffic school only"],
+    "answer": 1
+  },
+  {
+    "question": "You are approaching a roundabout. Who must you yield to?",
+    "options": ["No one", "Drivers behind you", "Pedestrians only", "Traffic in the roundabout"],
+    "answer": 3
+  },
+  {
+    "question": "How can you avoid highway hypnosis on long drives?",
+    "options": ["Drive faster", "Turn off music", "Take regular breaks", "Keep headlights off"],
+    "answer": 2
+  },
+  {
+    "question": "What is the penalty for refusing a breathalyzer test in Ontario?",
+    "options": ["Warning", "License suspension and fine", "Nothing", "Reduced sentence"],
+    "answer": 1
+  },
+  {
+    "question": "What is the meaning of a red and white triangular sign?",
+    "options": ["Stop", "Yield", "Do not enter", "Railway crossing"],
+    "answer": 1
+  },
+  {
+    "question": "When approaching an intersection with no signs or signals, you must:",
+    "options": ["Yield to the vehicle on your right", "Proceed quickly", "Stop always", "Turn on hazard lights"],
+    "answer": 0
+  },
+  {
+    "question": "When must you report a collision to the police in Ontario?",
+    "options": ["If damages exceed $2,000 or injuries occur", "Only if someone is angry", "Always", "Only if a police car arrives"],
+    "answer": 0
+  },
+  {
+    "question": "When should you use your horn?",
+    "options": ["To greet a friend", "To signal danger or avoid a collision", "When traffic is slow", "At red lights"],
+    "answer": 1
+  },
+  {
+    "question": "Which lane should you use when turning left at an intersection?",
+    "options": ["Any lane", "The right lane", "The leftmost lane", "The center lane"],
+    "answer": 2
+  },
+  {
+    "question": "What should you do when approaching a construction zone?",
+    "options": ["Speed up", "Ignore all signs", "Slow down and follow instructions", "Honk to warn workers"],
+    "answer": 2
+  },
+  {
+    "question": "If your vehicle starts to hydroplane, you should:",
+    "options": ["Brake immediately", "Accelerate", "Ease off the gas and steer straight", "Turn the steering wheel left"],
+    "answer": 2
+  },
+  {
+    "question": "How many demerit points will result in a warning letter for a fully licensed driver in Ontario?",
+    "options": ["2 points", "6 points", "9 points", "15 points"],
+    "answer": 1
+  },
+  {
+    "question": "When driving through a residential area, the speed limit is usually:",
+    "options": ["30 km/h", "40 km/h", "50 km/h", "60 km/h"],
+    "answer": 2
+  }
+]
+
