@@ -38,6 +38,11 @@
     "filename": "DartBeginner.json",
     "Category": "Flutter",
     "Name": "40 MCQs: Dart Beginner"
+  },
+  {
+    "filename": "DartIntermediate.json",
+    "Category": "Flutter",
+    "Name": "40 MCQs: Dart Intermediate"
   }
   
 ]
