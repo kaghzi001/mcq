@@ -1,0 +1,243 @@
+[
+    {
+      "id": 1,
+      "question": "What is Dart primarily used for?",
+      "options": ["Game development", "Mobile and web app development", "Database management", "Operating system development"],
+      "answer": 1
+    },
+    {
+      "id": 2,
+      "question": "Which company developed Dart?",
+      "options": ["Microsoft", "Facebook", "Apple", "Google"],
+      "answer": 3
+    },
+    {
+      "id": 3,
+      "question": "What is the file extension for Dart files?",
+      "options": [".dart", ".drt", ".dcode", ".dscript"],
+      "answer": 0
+    },
+    {
+      "id": 4,
+      "question": "Which Dart keyword is used to declare a constant value?",
+      "options": ["let", "final", "const", "static"],
+      "answer": 2
+    },
+    {
+      "id": 5,
+      "question": "What function is the entry point of a Dart program?",
+      "options": ["start()", "run()", "main()", "init()"],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "question": "How do you declare a variable in Dart?",
+      "options": ["var name;", "let name;", "declare name;", "int name();"],
+      "answer": 0
+    },
+    {
+      "id": 7,
+      "question": "Which symbol is used to terminate a statement in Dart?",
+      "options": [".", ":", ";", ","],
+      "answer": 2
+    },
+    {
+      "id": 8,
+      "question": "Which of the following is a valid Dart variable name?",
+      "options": ["1name", "_name", "name!", "@name"],
+      "answer": 1
+    },
+    {
+      "id": 9,
+      "question": "What does the 'final' keyword mean in Dart?",
+      "options": ["Value can be changed later", "Variable cannot be null", "Value cannot be changed once assigned", "Declares a global variable"],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "Which data type is used for whole numbers in Dart?",
+      "options": ["double", "float", "int", "num"],
+      "answer": 2
+    },
+    {
+      "id": 11,
+      "question": "What is the output of print(3 + 2 * 2)?",
+      "options": ["10", "7", "8", "12"],
+      "answer": 1
+    },
+    {
+      "id": 12,
+      "question": "Which keyword is used to define a class in Dart?",
+      "options": ["object", "struct", "class", "define"],
+      "answer": 2
+    },
+    {
+      "id": 13,
+      "question": "What is the result of 10 ~/ 3 in Dart?",
+      "options": ["3.33", "3", "4", "3.0"],
+      "answer": 1
+    },
+    {
+      "id": 14,
+      "question": "How do you define a list in Dart?",
+      "options": ["var list = [];", "list = array();", "let list = new List();", "var list = List<>;"],
+      "answer": 0
+    },
+    {
+      "id": 15,
+      "question": "How do you add an item to a list in Dart?",
+      "options": ["list.insert(item);", "list.add(item);", "list.push(item);", "list.append(item);"],
+      "answer": 1
+    },
+    {
+      "id": 16,
+      "question": "Which keyword is used to create a function in Dart?",
+      "options": ["def", "func", "function", "None of the above"],
+      "answer": 3
+    },
+    {
+      "id": 17,
+      "question": "How do you define a function in Dart?",
+      "options": ["function name() {}", "void name() {}", "def name() {}", "func name() {}"],
+      "answer": 1
+    },
+    {
+      "id": 18,
+      "question": "What is the data type for true/false values in Dart?",
+      "options": ["int", "bool", "bit", "logical"],
+      "answer": 1
+    },
+    {
+      "id": 19,
+      "question": "Which of the following is a valid Dart comment?",
+      "options": ["// comment", "# comment", "-- comment", "<!-- comment -->"],
+      "answer": 0
+    },
+    {
+      "id": 20,
+      "question": "Which operator is used for string interpolation in Dart?",
+      "options": ["&", "#", "$", "@"],
+      "answer": 2
+    },
+    {
+      "id": 21,
+      "question": "What is the result of 'Hello' + ' World' in Dart?",
+      "options": ["HelloWorld", "Hello World", "Hello+World", "Error"],
+      "answer": 1
+    },
+    {
+      "id": 22,
+      "question": "How do you check if two values are equal in Dart?",
+      "options": ["=", "==", "!=", "==="],
+      "answer": 1
+    },
+    {
+      "id": 23,
+      "question": "What is a Map in Dart?",
+      "options": ["An ordered list", "A key-value pair collection", "A string data type", "A random generator"],
+      "answer": 1
+    },
+    {
+      "id": 24,
+      "question": "How do you declare a Map in Dart?",
+      "options": ["var m = {};", "var m = Map();", "var m = {'key': 'value'};", "All of the above"],
+      "answer": 3
+    },
+    {
+      "id": 25,
+      "question": "Which Dart keyword is used for inheritance?",
+      "options": ["extend", "inherits", "extends", "base"],
+      "answer": 2
+    },
+    {
+      "id": 26,
+      "question": "What does null mean in Dart?",
+      "options": ["Zero", "False", "No value assigned", "Empty string"],
+      "answer": 2
+    },
+    {
+      "id": 27,
+      "question": "How do you write a for loop in Dart?",
+      "options": ["for (var i = 0; i < 5; i++)", "loop i in 5", "for i in range(5)", "foreach i in 5"],
+      "answer": 0
+    },
+    {
+      "id": 28,
+      "question": "What is the use of the 'this' keyword in Dart?",
+      "options": ["Refers to parent class", "Refers to static variable", "Refers to the current instance", "Refers to global scope"],
+      "answer": 2
+    },
+    {
+      "id": 29,
+      "question": "What does the 'new' keyword do in Dart?",
+      "options": ["Creates a file", "Creates a new instance of a class", "Creates a list", "Initializes variables"],
+      "answer": 1
+    },
+    {
+      "id": 30,
+      "question": "Is Dart a statically typed language?",
+      "options": ["Yes", "No", "Only with annotations", "Only for functions"],
+      "answer": 0
+    },
+    {
+      "id": 31,
+      "question": "Which one is a valid boolean operator in Dart?",
+      "options": ["and", "or", "&&", "not"],
+      "answer": 2
+    },
+    {
+      "id": 32,
+      "question": "How do you write a single-line comment in Dart?",
+      "options": ["/* comment */", "// comment", "-- comment", "# comment"],
+      "answer": 1
+    },
+    {
+      "id": 33,
+      "question": "Which operator is used to assign value in Dart?",
+      "options": ["==", ":=", "=", "=>"],
+      "answer": 2
+    },
+    {
+      "id": 34,
+      "question": "What does 'void' mean in a Dart function?",
+      "options": ["Function returns nothing", "Function returns integer", "Function is empty", "Function has no parameters"],
+      "answer": 0
+    },
+    {
+      "id": 35,
+      "question": "Which Dart package is used for building Flutter apps?",
+      "options": ["flutter_core", "dart_ui", "flutter", "material"],
+      "answer": 2
+    },
+    {
+      "id": 36,
+      "question": "Can Dart run in the browser?",
+      "options": ["Yes", "No", "Only with plugin", "Only in Flutter"],
+      "answer": 0
+    },
+    {
+      "id": 37,
+      "question": "Which syntax is used for ternary operation in Dart?",
+      "options": ["if ? else :", "?:", "? :", "if:then:else"],
+      "answer": 2
+    },
+    {
+      "id": 38,
+      "question": "What keyword is used to handle exceptions in Dart?",
+      "options": ["try", "catch", "throw", "All of the above"],
+      "answer": 3
+    },
+    {
+      "id": 39,
+      "question": "Which symbol is used to import libraries in Dart?",
+      "options": ["#", "import", "@", "use"],
+      "answer": 1
+    },
+    {
+      "id": 40,
+      "question": "Which Dart keyword is used to stop loop execution early?",
+      "options": ["exit", "return", "stop", "break"],
+      "answer": 3
+    }
+]
+  

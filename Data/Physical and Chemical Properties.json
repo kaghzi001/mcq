@@ -1,0 +1,392 @@
+[
+  {
+    "question": "What is a physical change?",
+    "options": [
+      "A change that creates a new substance",
+      "A change in color that produces gas",
+      "A change in form or state without changing the substance",
+      "A change in atomic number"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is a chemical change?",
+    "options": [
+      "Melting ice",
+      "Boiling water",
+      "Burning wood",
+      "Freezing juice"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of these is a physical change?",
+    "options": [
+      "Rusting iron",
+      "Cooking an egg",
+      "Dissolving sugar in water",
+      "Baking a cake"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What happens in a chemical change?",
+    "options": [
+      "The form of the substance changes but not its composition",
+      "The mass changes",
+      "A new substance is formed",
+      "Atoms are destroyed"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is NOT a chemical change?",
+    "options": [
+      "Rusting of iron",
+      "Burning paper",
+      "Evaporating water",
+      "Baking bread"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which is a sign of a chemical change?",
+    "options": [
+      "Change in state",
+      "Formation of bubbles or gas",
+      "Change in shape",
+      "Melting"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Freezing is a:",
+    "options": [
+      "Chemical change",
+      "Nuclear change",
+      "Physical change",
+      "Radioactive process"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which change is reversible?",
+    "options": [
+      "Burning wood",
+      "Rusting",
+      "Melting ice",
+      "Cooking meat"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which process is a chemical change?",
+    "options": [
+      "Melting butter",
+      "Dissolving salt",
+      "Boiling water",
+      "Digesting food"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which is a physical change?",
+    "options": [
+      "Frying an egg",
+      "Condensation of water vapor",
+      "Milk going sour",
+      "Lighting a match"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What does a chemical change usually involve?",
+    "options": [
+      "No change in temperature",
+      "Formation of a new substance",
+      "Reversible change",
+      "No change in chemical properties"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Breaking a glass is an example of a:",
+    "options": [
+      "Chemical change",
+      "Physical change",
+      "Molecular reaction",
+      "Phase transition"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Color change during a reaction is often a sign of:",
+    "options": [
+      "Physical change",
+      "No change",
+      "Chemical change",
+      "Phase change"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Tearing paper is a:",
+    "options": [
+      "Nuclear change",
+      "Physical change",
+      "Chemical change",
+      "Chemical reaction"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Cooking involves which type of change?",
+    "options": [
+      "Chemical",
+      "Physical",
+      "Reversible",
+      "Nuclear"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which process results in a new substance being formed?",
+    "options": [
+      "Melting chocolate",
+      "Condensation",
+      "Rusting",
+      "Freezing"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which change is irreversible?",
+    "options": [
+      "Condensation",
+      "Evaporation",
+      "Burning paper",
+      "Freezing"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which is an example of both physical and chemical change?",
+    "options": [
+      "Melting gold",
+      "Burning candle",
+      "Evaporating alcohol",
+      "Cutting cloth"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Evaporation is a:",
+    "options": [
+      "Chemical change",
+      "Nuclear change",
+      "Physical change",
+      "Permanent reaction"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which change alters the identity of a substance?",
+    "options": [
+      "Boiling",
+      "Melting",
+      "Freezing",
+      "Combustion"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Why is boiling water a physical change?",
+    "options": [
+      "It forms new chemicals",
+      "Its temperature stays the same",
+      "It only changes the state of water",
+      "Water disappears permanently"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is true about all chemical changes?",
+    "options": [
+      "They are reversible",
+      "They form new substances",
+      "They produce gases",
+      "They are always explosive"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is not a chemical change?",
+    "options": [
+      "Burning",
+      "Rusting",
+      "Melting",
+      "Cooking"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which is an example of a chemical reaction?",
+    "options": [
+      "Water boiling",
+      "Salt dissolving",
+      "Milk curdling",
+      "Ice melting"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Cutting an apple is a:",
+    "options": [
+      "Chemical change",
+      "Physical change",
+      "Nuclear reaction",
+      "Digestion"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "When iron rusts, it combines with:",
+    "options": [
+      "Carbon dioxide",
+      "Oxygen",
+      "Nitrogen",
+      "Hydrogen"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of these is an example of a chemical property?",
+    "options": [
+      "Melting point",
+      "Density",
+      "Reactivity with acid",
+      "Boiling point"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which property is involved in a physical change?",
+    "options": [
+      "Combustibility",
+      "Melting point",
+      "Flammability",
+      "Toxicity"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which of these is not a clue of chemical change?",
+    "options": [
+      "Gas formation",
+      "Color change",
+      "Temperature change",
+      "Change in shape"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "What happens to the atoms during a chemical change?",
+    "options": [
+      "They disappear",
+      "They rearrange to form new substances",
+      "They melt",
+      "They split into protons"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Dissolving sugar in water is a physical change because:",
+    "options": [
+      "It forms a new substance",
+      "It produces light",
+      "It can be reversed",
+      "No atoms are present"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which is a chemical property?",
+    "options": [
+      "Color",
+      "Solubility",
+      "Boiling point",
+      "Ability to burn"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Baking soda reacts with vinegar to produce gas. This is a:",
+    "options": [
+      "Physical change",
+      "Phase change",
+      "Chemical change",
+      "Nuclear change"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of these is a clue that a chemical change has occurred?",
+    "options": [
+      "A substance is crushed",
+      "A liquid freezes",
+      "Heat is released",
+      "Water evaporates"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "The formation of a precipitate is a sign of:",
+    "options": [
+      "Physical change",
+      "Mixture",
+      "Chemical reaction",
+      "No change"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which of these describes a physical property?",
+    "options": [
+      "Reacts with oxygen",
+      "Toxic when inhaled",
+      "Melts at 0\u00b0C",
+      "Flammable"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Why is chopping wood a physical change?",
+    "options": [
+      "New substance forms",
+      "Only the size and shape changes",
+      "It burns later",
+      "It produces smoke"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Chemical changes always involve:",
+    "options": [
+      "Formation of a solution",
+      "Change in appearance only",
+      "Energy change and new substances",
+      "Freezing point depression"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which is a chemical change involving heat?",
+    "options": [
+      "Boiling water",
+      "Melting ice",
+      "Cooking pasta",
+      "Cracking glass"
+    ],
+    "answer": 2
+  }
+]

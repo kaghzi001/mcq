@@ -1,0 +1,29 @@
+# Project Summary: MCQ Quiz Application
+
+## Overview
+This project is a web-based Multiple Choice Question (MCQ) quiz application designed to provide an interactive quiz experience. Users can select different question sets, answer questions, and receive immediate feedback on their performance.
+
+## File Structure
+- **index.html**: The main HTML file that structures the web page. It includes:
+  - A title "MCQ Quiz".
+  - Links to external CSS (`style.css`) and JavaScript (`script.js`, `config.js`) files.
+  - A container for displaying the quiz, including sections for the question, options, and a result display area.
+
+- **script.js**: Contains the JavaScript logic for the quiz, including:
+  - Loading questions from JSON files in the `Data` directory.
+  - Displaying questions and options.
+  - Handling user interactions and tracking scores.
+  - Providing feedback on answers and showing results.
+
+- **style.css**: The CSS file linked in the HTML to style the quiz interface.
+
+- **config.js**: Likely used for configuration settings, though its specific contents were not reviewed.
+
+- **Data/**: A directory containing JSON files with question sets, allowing for dynamic loading of different quizzes.
+
+## Functionality
+- The application fetches question sets from JSON files and displays them to the user.
+- Users can select a question set, answer questions, and receive feedback on their answers.
+- A status bar shows progress and results at the end of the quiz.
+
+This summary provides an understanding of the project's structure and functionality, enabling both AI agents and humans to modify and extend the application as needed.
