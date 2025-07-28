@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "question": "What is the root widget of a Flutter app?",
+    "options": ["Container", "Scaffold", "MaterialApp", "Text"],
+    "answer": 2
+  },
+  {
+    "id": 2,
+    "question": "Which widget is used for layout and positioning of other widgets?",
+    "options": ["Text", "Scaffold", "Column", "AppBar"],
+    "answer": 2
+  },
+  {
+    "id": 3,
+    "question": "What is the main function in a Flutter app?",
+    "options": ["init()", "start()", "main()", "runApp()"],
+    "answer": 2
+  },
+  {
+    "id": 4,
+    "question": "Which function starts the Flutter app?",
+    "options": ["initApp()", "runApp()", "startApp()", "mainApp()"],
+    "answer": 1
+  },
+  {
+    "id": 5,
+    "question": "What does the `build()` method return?",
+    "options": ["App", "State", "Widget", "Context"],
+    "answer": 2
+  },
+  {
+    "id": 6,
+    "question": "What is the purpose of a `StatefulWidget`?",
+    "options": ["For static UI", "To create layouts", "To manage state", "To display text"],
+    "answer": 2
+  },
+  {
+    "id": 7,
+    "question": "Which widget is used to add padding around a child?",
+    "options": ["Container", "Row", "Column", "Padding"],
+    "answer": 3
+  },
+  {
+    "id": 8,
+    "question": "What widget is used to create scrollable lists?",
+    "options": ["Column", "Row", "ListView", "TextField"],
+    "answer": 2
+  },
+  {
+    "id": 9,
+    "question": "What is the use of `setState()` in Flutter?",
+    "options": ["To change the route", "To add a widget", "To rebuild UI", "To call API"],
+    "answer": 2
+  },
+  {
+    "id": 10,
+    "question": "Which widget helps align its child within itself?",
+    "options": ["Align", "Scaffold", "AppBar", "Text"],
+    "answer": 0
+  },
+  {
+    "id": 11,
+    "question": "What does the `hot reload` feature do?",
+    "options": ["Restarts app", "Compiles Dart to Java", "Preserves state and updates UI", "Deletes cache"],
+    "answer": 2
+  },
+  {
+    "id": 12,
+    "question": "Which widget is used to create a button?",
+    "options": ["Text", "Row", "ElevatedButton", "Column"],
+    "answer": 2
+  },
+  {
+    "id": 13,
+    "question": "Which widget provides default visual structure for Material Design apps?",
+    "options": ["MaterialApp", "StatelessWidget", "Row", "AppBar"],
+    "answer": 0
+  },
+  {
+    "id": 14,
+    "question": "Which widget is used to display a piece of text?",
+    "options": ["Label", "Text", "Title", "Span"],
+    "answer": 1
+  },
+  {
+    "id": 15,
+    "question": "What does `Navigator.push` do?",
+    "options": ["Exits the app", "Adds a new widget", "Navigates to a new route", "Destroys current widget"],
+    "answer": 2
+  },
+  {
+    "id": 16,
+    "question": "How is navigation handled in Flutter?",
+    "options": ["Router", "Switch", "Navigator", "Intent"],
+    "answer": 2
+  },
+  {
+    "id": 17,
+    "question": "What does `async` keyword indicate in Dart?",
+    "options": ["Synchronous function", "Delayed function", "Asynchronous function", "Static function"],
+    "answer": 2
+  },
+  {
+    "id": 18,
+    "question": "Which keyword is used to wait for a Future?",
+    "options": ["delay", "await", "wait", "future"],
+    "answer": 1
+  },
+  {
+    "id": 19,
+    "question": "Which widget is used to detect user gestures?",
+    "options": ["Detector", "GestureListener", "GestureDetector", "Listener"],
+    "answer": 2
+  },
+  {
+    "id": 20,
+    "question": "Which widget helps to stack widgets on top of each other?",
+    "options": ["Column", "Stack", "Row", "Layer"],
+    "answer": 1
+  },
+  {
+    "id": 21,
+    "question": "What is `Scaffold` used for?",
+    "options": ["UI foundation for Material apps", "Navigation only", "Animation", "Theme management"],
+    "answer": 0
+  },
+  {
+    "id": 22,
+    "question": "What is the difference between `StatelessWidget` and `StatefulWidget`?",
+    "options": ["Stateless can change UI", "Stateful has no build()", "Stateless has immutable UI", "Stateful widgets are deprecated"],
+    "answer": 2
+  },
+  {
+    "id": 23,
+    "question": "What type of layout is used in `Row`?",
+    "options": ["Vertical", "Stacked", "Grid", "Horizontal"],
+    "answer": 3
+  },
+  {
+    "id": 24,
+    "question": "What is the child property used for?",
+    "options": ["For styling", "To add animation", "To hold one widget", "To repeat widgets"],
+    "answer": 2
+  },
+  {
+    "id": 25,
+    "question": "Which widget is used for repeating elements vertically?",
+    "options": ["ListView", "Row", "Stack", "Expanded"],
+    "answer": 0
+  },
+  {
+    "id": 26,
+    "question": "Which widget expands to fill available space?",
+    "options": ["Padding", "Align", "Expanded", "SizedBox"],
+    "answer": 2
+  },
+  {
+    "id": 27,
+    "question": "What widget is used to add margins, color, and size?",
+    "options": ["Text", "Container", "Row", "Spacer"],
+    "answer": 1
+  },
+  {
+    "id": 28,
+    "question": "What widget is used for fixed spacing between widgets?",
+    "options": ["SizedBox", "Spacer", "Padding", "Divider"],
+    "answer": 0
+  },
+  {
+    "id": 29,
+    "question": "Which property sets color in `Container`?",
+    "options": ["foreground", "color", "style", "backgroundColor"],
+    "answer": 1
+  },
+  {
+    "id": 30,
+    "question": "Which method is used to load images from assets?",
+    "options": ["Image.asset()", "Image.load()", "AssetImage()", "loadImage()"],
+    "answer": 0
+  },
+  {
+    "id": 31,
+    "question": "What is the type of `context` in Flutter?",
+    "options": ["WidgetContext", "UIContext", "BuildContext", "ElementContext"],
+    "answer": 2
+  },
+  {
+    "id": 32,
+    "question": "Where is `pubspec.yaml` used?",
+    "options": ["To write Dart code", "To define widget tree", "To manage dependencies and assets", "To style widgets"],
+    "answer": 2
+  },
+  {
+    "id": 33,
+    "question": "Which widget displays a dialog box?",
+    "options": ["AlertView", "DialogWidget", "AlertDialog", "PopupDialog"],
+    "answer": 2
+  },
+  {
+    "id": 34,
+    "question": "How do you handle user input in Flutter?",
+    "options": ["TextFormField", "InputWidget", "FormText", "TextLabel"],
+    "answer": 0
+  },
+  {
+    "id": 35,
+    "question": "Which widget lets you group multiple form fields together?",
+    "options": ["Form", "Column", "TextField", "InputGroup"],
+    "answer": 0
+  },
+  {
+    "id": 36,
+    "question": "How do you handle HTTP requests in Flutter?",
+    "options": ["http package", "flutter_io", "dio package", "Either A or C"],
+    "answer": 3
+  },
+  {
+    "id": 37,
+    "question": "Which lifecycle method is called once when the widget is inserted?",
+    "options": ["dispose()", "initState()", "build()", "constructor"],
+    "answer": 1
+  },
+  {
+    "id": 38,
+    "question": "Which lifecycle method is used to clean up resources?",
+    "options": ["cleanUp()", "dispose()", "remove()", "delete()"],
+    "answer": 1
+  },
+  {
+    "id": 39,
+    "question": "Which Flutter tool checks code for issues?",
+    "options": ["flutter lint", "dart test", "flutter doctor", "flutter analyze"],
+    "answer": 3
+  },
+  {
+    "id": 40,
+    "question": "Which command creates a new Flutter project?",
+    "options": ["flutter build", "flutter new", "flutter create", "flutter start"],
+    "answer": 2
+  }
+]
