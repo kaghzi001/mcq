@@ -42,7 +42,12 @@
   {
     "filename": "DartIntermediate.json",
     "Category": "Flutter",
-    "Name": "40 MCQs: Dart Intermediate"
+    "Name": "40 MCQs: Dart Intermediate I"
+  },
+  {
+    "filename": "DartIntermediate2.json",
+    "Category": "Flutter",
+    "Name": "40 MCQs: Dart Intermediate II"
   }
   
 ]
