@@ -1,243 +1,242 @@
 [
-    {
-      "id": 1,
-      "question": "What does the `!` operator mean in Dart?",
-      "options": ["Negation", "Non-null assertion", "Bitwise NOT", "Null-coalescing"],
-      "answer": 1
-    },
-    {
-      "id": 2,
-      "question": "Which keyword is used to define an abstract class in Dart?",
-      "options": ["virtual", "interface", "abstract", "base"],
-      "answer": 2
-    },
-    {
-      "id": 3,
-      "question": "What does the `async` keyword do?",
-      "options": ["Defines an asynchronous function", "Declares a stream", "Delays execution", "Executes code in parallel"],
-      "answer": 0
-    },
-    {
-      "id": 4,
-      "question": "How do you handle an exception in Dart?",
-      "options": ["try/catch", "catch/throw", "try/except", "rescue/end"],
-      "answer": 0
-    },
-    {
-      "id": 5,
-      "question": "Which symbol is used for the null-aware operator in Dart?",
-      "options": ["??", "!?=", "::", "!!"],
-      "answer": 0
-    },
-    {
-      "id": 6,
-      "question": "What is the output type of an async function?",
-      "options": ["void", "Stream", "Future", "int"],
-      "answer": 2
-    },
-    {
-      "id": 7,
-      "question": "How do you make a function return a future of int?",
-      "options": ["Future<int> func()", "int async func()", "async<int> func()", "int => Future func()"],
-      "answer": 0
-    },
-    {
-      "id": 8,
-      "question": "Which keyword is used to create an immutable variable that’s initialized later?",
-      "options": ["const", "var", "late final", "final const"],
-      "answer": 2
-    },
-    {
-      "id": 9,
-      "question": "Which of the following is a correct use of mixins in Dart?",
-      "options": ["with MixinClass", "include MixinClass", "extends MixinClass", "mixin MixinClass"],
-      "answer": 0
-    },
-    {
-      "id": 10,
-      "question": "What is the purpose of `yield` in Dart?",
-      "options": ["Breaks from a loop", "Pauses async function", "Returns from a stream generator", "Continues execution"],
-      "answer": 2
-    },
-    {
-      "id": 11,
-      "question": "Which keyword is used to declare a stream-producing function?",
-      "options": ["stream", "async", "sync*", "async*"],
-      "answer": 3
-    },
-    {
-      "id": 12,
-      "question": "How do you create a custom exception in Dart?",
-      "options": ["Throw a class that implements Exception", "Use throw new Error()", "Throw a string", "You cannot"],
-      "answer": 0
-    },
-    {
-      "id": 13,
-      "question": "What does `required` do in function parameters?",
-      "options": ["Marks positional arguments", "Marks parameters as optional", "Marks parameters that must be provided", "Ignores null safety"],
-      "answer": 2
-    },
-    {
-      "id": 14,
-      "question": "How do you declare an optional named parameter?",
-      "options": ["(String name?)", "{String? name}", "[String name]", "name?: String"],
-      "answer": 1
-    },
-    {
-      "id": 15,
-      "question": "What is the difference between `final` and `const` in Dart?",
-      "options": ["final is compile-time, const is runtime", "final is runtime, const is compile-time", "No difference", "const is mutable"],
-      "answer": 1
-    },
-    {
-      "id": 16,
-      "question": "What is the use of the `cascade` operator (`..`) in Dart?",
-      "options": ["Multiple method calls on the same object", "Chaining arithmetic", "Error handling", "None of the above"],
-      "answer": 0
-    },
-    {
-      "id": 17,
-      "question": "How do you define an unnamed constructor in a class?",
-      "options": ["constructor()", "ClassName()", "this()", "init()"],
-      "answer": 1
-    },
-    {
-      "id": 18,
-      "question": "Which constructor allows initialization before body execution?",
-      "options": ["Initial", "Redirecting", "Initializer list", "Factory"],
-      "answer": 2
-    },
-    {
-      "id": 19,
-      "question": "What is the purpose of a `factory` constructor?",
-      "options": ["Creates multiple instances", "Returns an existing or cached instance", "Is always async", "Only for abstract classes"],
-      "answer": 1
-    },
-    {
-      "id": 20,
-      "question": "What does the `?.` operator do?",
-      "options": ["Force unwraps", "Null-checks before method call", "Throws exception", "Shortens expression"],
-      "answer": 1
-    },
-    {
-      "id": 21,
-      "question": "Which of these is a valid getter syntax in Dart?",
-      "options": ["get name => _name;", "getter name = _name;", "get name() = _name;", "name.get => _name;"],
-      "answer": 0
-    },
-    {
-      "id": 22,
-      "question": "What will `null ?? 'default'` return?",
-      "options": ["null", "default", "error", "undefined"],
-      "answer": 1
-    },
-    {
-      "id": 23,
-      "question": "Which Dart class is the base class of all classes?",
-      "options": ["Base", "Object", "Any", "Super"],
-      "answer": 1
-    },
-    {
-      "id": 24,
-      "question": "What does `List.unmodifiable()` do?",
-      "options": ["Returns a fixed-size list", "Creates a mutable list", "Creates a list that cannot be changed", "Sorts the list"],
-      "answer": 2
-    },
-    {
-      "id": 25,
-      "question": "What is the output of `print([1, 2, ...[3, 4]])`?",
-      "options": ["[1, 2, [3, 4]]", "[1, 2, 3, 4]", "Error", "[1, 2, ...[3, 4]]"],
-      "answer": 1
-    },
-    {
-      "id": 26,
-      "question": "What does `late` keyword signify?",
-      "options": ["Optional initialization", "Lazy initialization", "Early initialization", "Thread-safe variable"],
-      "answer": 1
-    },
-    {
-      "id": 27,
-      "question": "Which keyword is used for creating an enum?",
-      "options": ["enum", "enumeration", "type", "choice"],
-      "answer": 0
-    },
-    {
-      "id": 28,
-      "question": "Which of these is the correct syntax for a generic class?",
-      "options": ["class MyClass<Type> {}", "generic MyClass<T> {}", "MyClass<T> {}", "class<T> MyClass {}"],
-      "answer": 0
-    },
-    {
-      "id": 29,
-      "question": "How do you restrict a generic type to a class?",
-      "options": ["<T : MyClass>", "<T extends MyClass>", "<T implements MyClass>", "<T super MyClass>"],
-      "answer": 1
-    },
-    {
-      "id": 30,
-      "question": "What is the use of assert() in Dart?",
-      "options": ["Log values", "Throw runtime exceptions", "Check for conditions in development", "Terminate the program"],
-      "answer": 2
-    },
-    {
-      "id": 31,
-      "question": "Which library provides DateTime utilities?",
-      "options": ["dart:core", "dart:date", "dart:utils", "dart:time"],
-      "answer": 0
-    },
-    {
-      "id": 32,
-      "question": "How do you create a stream?",
-      "options": ["Stream()", "Stream.fromIterable()", "new stream()", "AsyncStream()"],
-      "answer": 1
-    },
-    {
-      "id": 33,
-      "question": "Which method listens to a stream?",
-      "options": ["subscribe()", "onData()", "listen()", "stream()"],
-      "answer": 2
-    },
-    {
-      "id": 34,
-      "question": "What is the return type of `main()` in an async Dart program?",
-      "options": ["void", "Future", "Future<void>", "async"],
-      "answer": 2
-    },
-    {
-      "id": 35,
-      "question": "How do you ignore exceptions intentionally?",
-      "options": ["Empty catch block", "try without catch", "try-finally", "You can't"],
-      "answer": 0
-    },
-    {
-      "id": 36,
-      "question": "Which operator prevents execution when a value is null?",
-      "options": ["!", "?.", "??", "=>"],
-      "answer": 1
-    },
-    {
-      "id": 37,
-      "question": "What is the Dart equivalent of JavaScript's `map()` method for lists?",
-      "options": [".forEach()", ".map()", ".transform()", ".apply()"],
-      "answer": 1
-    },
-    {
-      "id": 38,
-      "question": "Which syntax is used for a lambda (arrow) function in Dart?",
-      "options": ["()=>", "->", "::", "=>"],
-      "answer": 3
-    },
-    {
-      "id": 39,
-      "question": "What does `is` do in Dart?",
-      "options": ["Checks if two objects are identical", "Checks type at runtime", "Declares variable type", "Creates instance"],
-      "answer": 1
-    },
-    {
-      "id": 40,
-      "question": "Which statement correctly uses a spread operator?",
-      "options": ["list.add(...other);", "[1, ...otherList]", "[...1,2]", "list = other...;"],
-      "answer": 1
-    }
+  {
+    "id": 41,
+    "question": "In Dart, what does `?..` mean?",
+    "options": ["Null-aware spread", "Null-aware method call with result", "Null-aware method call ignoring result", "Null-safe casting"],
+    "answer": 2
+  },
+  {
+    "id": 42,
+    "question": "What is the Dart equivalent of C#'s `var` for type inference?",
+    "options": ["var", "dynamic", "auto", "final"],
+    "answer": 0
+  },
+  {
+    "id": 43,
+    "question": "Which Dart keyword prevents reassignment but allows delayed initialization?",
+    "options": ["final", "const", "late", "static"],
+    "answer": 2
+  },
+  {
+    "id": 44,
+    "question": "How does Dart handle private class members?",
+    "options": ["`private` keyword", "`_` prefix", "`@private` annotation", "Encapsulation is not supported"],
+    "answer": 1
+  },
+  {
+    "id": 45,
+    "question": "Which Dart feature allows extending functionality without inheritance?",
+    "options": ["Interfaces", "Mixins", "Extensions", "Prototypes"],
+    "answer": 2
+  },
+  {
+    "id": 46,
+    "question": "Which of the following Dart features has no direct C# equivalent?",
+    "options": ["Extension methods", "Null-aware spread operator", "LINQ", "Properties"],
+    "answer": 1
+  },
+  {
+    "id": 47,
+    "question": "Which keyword is used in Dart to reuse a class’s methods without inheriting?",
+    "options": ["include", "mixin", "interface", "with"],
+    "answer": 3
+  },
+  {
+    "id": 48,
+    "question": "What happens if a Dart file omits the `main()` function?",
+    "options": ["It fails to compile", "It runs but throws", "It compiles but doesn't execute", "It runs as a library"],
+    "answer": 3
+  },
+  {
+    "id": 49,
+    "question": "Which Dart feature replaces C#’s `using` directive?",
+    "options": ["import", "include", "use", "require"],
+    "answer": 0
+  },
+  {
+    "id": 50,
+    "question": "How does Dart define default values for named parameters?",
+    "options": ["param: 'default'", "param = 'default'", "param = default", "param: default"],
+    "answer": 1
+  },
+  {
+    "id": 51,
+    "question": "What is a Dart `typedef` used for?",
+    "options": ["Create type aliases for values", "Create enum constants", "Define function signatures", "Mark abstract methods"],
+    "answer": 2
+  },
+  {
+    "id": 52,
+    "question": "How does Dart enforce immutability in a class?",
+    "options": ["@immutable annotation", "const constructor", "Making all fields final", "All of the above"],
+    "answer": 3
+  },
+  {
+    "id": 53,
+    "question": "What is special about Dart’s `enum` type compared to C#?",
+    "options": ["Enums are string-based", "Enums can't have values", "Enums can have methods and fields", "Enums must implement interfaces"],
+    "answer": 2
+  },
+  {
+    "id": 54,
+    "question": "Which is **true** about Dart’s `dynamic` type?",
+    "options": ["It's type-safe", "It disables type checking", "It is only used for JSON", "It replaces `Object`"],
+    "answer": 1
+  },
+  {
+    "id": 55,
+    "question": "How are Dart extensions declared?",
+    "options": ["extend ClassName {}", "extension on ClassName {}", "extension ClassName on Type {}", "mixin Extension with ClassName"],
+    "answer": 2
+  },
+  {
+    "id": 56,
+    "question": "What is the correct syntax to create a Dart list with a conditional element?",
+    "options": ["[if (flag) 1]", "[1 if flag]", "[flag ? 1 : null]", "[flag => 1]"],
+    "answer": 0
+  },
+  {
+    "id": 57,
+    "question": "How does Dart handle integer division?",
+    "options": ["/", "~/", "//", "int.div()"],
+    "answer": 1
+  },
+  {
+    "id": 58,
+    "question": "In Dart, `T?` means:",
+    "options": ["Nullable type", "Template type", "Constant type", "Type constraint"],
+    "answer": 0
+  },
+  {
+    "id": 59,
+    "question": "How do you mark a required named parameter in Dart (post-null-safety)?",
+    "options": ["required", "@Required", "assert(param != null)", "use const"],
+    "answer": 0
+  },
+  {
+    "id": 60,
+    "question": "Which of these is NOT a valid use of Dart's `spread` operator?",
+    "options": ["[...list]", "{...map}", "[1, ...null]", "[...[]]"],
+    "answer": 2
+  },
+  {
+    "id": 61,
+    "question": "Which of the following is **not** a Dart operator?",
+    "options": ["=>", "??", "~=", "~>"],
+    "answer": 3
+  },
+  {
+    "id": 62,
+    "question": "How does Dart enforce null safety at compile time?",
+    "options": ["Through runtime checks", "By static analysis", "Through asserts", "By requiring JSON decoding"],
+    "answer": 1
+  },
+  {
+    "id": 63,
+    "question": "What’s the Dart equivalent to C#’s `?.` (null-conditional access)?",
+    "options": ["?.", "!!", "::", "&&"],
+    "answer": 0
+  },
+  {
+    "id": 64,
+    "question": "In Dart, which combination allows you to define a constant list?",
+    "options": ["final List", "var list = []", "const List", "const []"],
+    "answer": 3
+  },
+  {
+    "id": 65,
+    "question": "How do Dart constructors differ from C# constructors?",
+    "options": ["Dart allows named constructors", "Dart constructors can't be overloaded", "Dart doesn't support constructors", "They are async by default"],
+    "answer": 0
+  },
+  {
+    "id": 66,
+    "question": "Which Dart keyword is used to initialize fields before the constructor body runs?",
+    "options": ["init", "super", "this", "initializer list"],
+    "answer": 3
+  },
+  {
+    "id": 67,
+    "question": "What does `FutureOr<T>` mean in Dart?",
+    "options": ["T or void", "Future or T", "Async or sync list", "Future<void>"],
+    "answer": 1
+  },
+  {
+    "id": 68,
+    "question": "How are Dart libraries typically organized?",
+    "options": ["Packages using `pubspec.yaml`", "DLL files", "Namespaces", "Assemblies"],
+    "answer": 0
+  },
+  {
+    "id": 69,
+    "question": "What is the difference between `Object` and `dynamic` in Dart?",
+    "options": ["Object is compile-checked, dynamic is not", "They are aliases", "Object has no methods", "Dynamic is a subtype of Object"],
+    "answer": 0
+  },
+  {
+    "id": 70,
+    "question": "What’s unique about Dart’s `main()` function compared to C#?",
+    "options": ["It can return void or Future<void>", "It must be async", "It has no arguments", "It must return int"],
+    "answer": 0
+  },
+  {
+    "id": 71,
+    "question": "Which syntax is used for a redirecting constructor in Dart?",
+    "options": ["this.constructor()", "constructor() => this()", "MyClass.name() : this()", "this.name() = MyClass()"],
+    "answer": 2
+  },
+  {
+    "id": 72,
+    "question": "How does Dart support optional positional parameters?",
+    "options": ["(a, b = 2)", "(a, [b])", "{a, b}", "(optional b)"],
+    "answer": 1
+  },
+  {
+    "id": 73,
+    "question": "Which Dart keyword allows you to create a compile-time constant object?",
+    "options": ["const", "static", "final", "immutable"],
+    "answer": 0
+  },
+  {
+    "id": 74,
+    "question": "Dart’s `late` keyword is used to:",
+    "options": ["Force null assignment", "Defer initialization until used", "Initialize in constructor only", "Create compile-time constants"],
+    "answer": 1
+  },
+  {
+    "id": 75,
+    "question": "Which keyword allows implementing multiple interfaces in Dart?",
+    "options": ["implements", "extends", "inherits", "with"],
+    "answer": 0
+  },
+  {
+    "id": 76,
+    "question": "What does `as` do in Dart?",
+    "options": ["Casts a value to a specific type", "Defines a mixin", "Assigns a new alias", "Compares references"],
+    "answer": 0
+  },
+  {
+    "id": 77,
+    "question": "What does the `...` operator do in a Dart list?",
+    "options": ["Unpacks another list", "Declares spread list", "Joins lists", "Filters nulls"],
+    "answer": 0
+  },
+  {
+    "id": 78,
+    "question": "How do you define an unmodifiable map in Dart?",
+    "options": ["Map.unmodifiable({})", "const {}", "final {}", "Map.freeze({})"],
+    "answer": 0
+  },
+  {
+    "id": 79,
+    "question": "Which construct enables extension methods in Dart?",
+    "options": ["extension", "mixin", "with", "augment"],
+    "answer": 0
+  },
+  {
+    "id": 80,
+    "question": "How does Dart treat uninitialized variables with no `late`, `final`, or `const`?",
+    "options": ["Assigns null", "Throws error", "Assigns default type", "Requires value"],
+    "answer": 0
+  }
 ]
-  
